@@ -56,7 +56,7 @@ The course should not be considered a complete education in the theoretical and 
 
 | Course Date | Course Title | Location |Citation DOI |
 |-------------|--------------|----------|-------------|
-| 24–31 March 2023  | [Next Generation Sequencing](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-20230324/) | Wellcome Genome Campus, UK | Citation DOI |
+| 24–31 March 2023  | [Next Generation Sequencing](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-20230324/) | Wellcome Genome Campus, UK | [![DOI](https://zenodo.org/badge/842479803.svg)](https://zenodo.org/doi/10.5281/zenodo.13322279) |
 | 3–8 November 2024  | [Next Generation Sequencing Bioinformatics - Asia](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-bioinformatics-asia-20241103/) | Monash University, Malaysia and Genome Institute of Singapore | Citation DOI |
 
 ******
