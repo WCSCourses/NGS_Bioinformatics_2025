@@ -1,6 +1,7 @@
-# <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> Add Course Title Informatics Guide
+# <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
+# Next Generation Sequencing Bioinformatics - Asia Informatics Guide
 
-**Softwares used during the course**      
+**Software used during the course**      
 
 | Software | Version (if not latest) | Module |Notes |
 |-------------|--------------|----------|-------------|
@@ -8,7 +9,7 @@
 
 ## Informatics Set-Up
 We are currently using Oracle VM Virtual Box (https://www.virtualbox.org/) to deliver Informatics, you can find Virtual Box Guides below:
-[Virtual Machine SetUp Guide for Intel-Mac and Windows](https://github.com/WCSCourses/index/blob/main/VM%20Guide.pdf). <br />
+[Virtual Machine Setup Guide for Intel-Mac and Windows](https://github.com/WCSCourses/index/blob/main/VM%20Guide.pdf). <br />
 
 The Host OS Requirements for Virtual Box <br />
 - RAM requirement: 8GB (preferably 12GB) <br />
