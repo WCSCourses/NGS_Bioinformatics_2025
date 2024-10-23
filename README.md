@@ -83,9 +83,6 @@ The course should not be considered a complete education in the theoretical and 
 - [Karon Chappell](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Event Organiser
 - [Martin Asltett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
 - [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
-- [Cassandra Soo](https://uk.linkedin.com/in/cassandra-claire-soo-b3783277/ms?trk=people-guest_people_search-card), Laboratory Courses Manager
-- [Aaron Dean](https://www.wellcomeconnectingscience.org/about-us/our-people/#{%22-%22:{%22text%22:%22aaron%22}}), Laboratory Technical Officer
-- [Christoper Adamson](https://www.wellcomeconnectingscience.org/person/adamson-chris/), Laboratory Operations Officer
 
 ******
 
