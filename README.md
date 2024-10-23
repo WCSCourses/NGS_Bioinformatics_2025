@@ -5,7 +5,8 @@
 ## 3–8 November 2024, Monash University, Malaysia and Genome Institute of Singapore
 
 [Wellcome Connecting Science Course Run Website](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-bioinformatics-asia-20241103/) <br /> 
-[Course Time Table](#) <br /> 
+[Course Time Table Singapore](https://github.com/WCSCourses/NGS_Bioinformatics_2024/blob/main/SingaporeTimetable.pdf) <br /> 
+[Course Time Table Malaysia](https://github.com/WCSCourses/NGS_Bioinformatics_2024/blob/main/MalaysiaTimeTable.pdf) <br /> 
 [Course Informatics Guide](https://github.com/WCSCourses/NGS_Bioinformatics_2024/blob/main/Course_Informatics_Guide.md)
 
 Learn to analyse next-generation sequence data to address a wide range of biological questions
