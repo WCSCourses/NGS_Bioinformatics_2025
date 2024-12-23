@@ -1,88 +1,84 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Next Generation Sequencing Bioinformatics - Asia
+# Next Generation Sequencing
 
-## 3–8 November 2024, Monash University, Malaysia and Genome Institute of Singapore
+### 21–28 March 2025, Wellcome Genome Campus, UK
 
-[Wellcome Connecting Science Course Run Website](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-bioinformatics-asia-20241103/) <br /> 
-[Course Time Table Singapore](https://github.com/WCSCourses/NGS_Bioinformatics_2024/blob/main/SingaporeTimetable.pdf) <br /> 
-[Course Time Table Malaysia](https://github.com/WCSCourses/NGS_Bioinformatics_2024/blob/main/MalaysiaTimeTable.pdf) <br /> 
-[Course Informatics Guide](https://github.com/WCSCourses/NGS_Bioinformatics_2024/blob/main/Course_Informatics_Guide.md)
+[Wellcome Connecting Science Course Run Website](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-20250321/) <br /> 
+[Course Informatics Guide](https://github.com/WCSCourses/NGS_Bioinformatics_2025/blob/main/Course_Informatics_Guide.md)
 
-Learn to analyse next-generation sequence data to address a wide range of biological questions
+Hands-on lab and informatics training for long and short-read sequencing
 
-# Summary
+### Summary
 
-High-throughput sequencing has gained widespread adoption as an essential experimental assay for biological research. Analysing high-throughput sequencing data involves an array of different bioinformatics tools and techniques. Therefore, it is important for experimental scientists to have the bioinformatics skills required to effectively assess and analyse data produced by next generation sequencing.
+Next-generation sequencing (NGS) has become the premier tool in genetic and genomic analysis. This hands-on laboratory and informatics  course is directed at scientists who will be generating and interpreting sequence information in their research and wish to improve their understanding of various sequencing platforms, techniques,  and their applications.
 
-This course aims to provide a hands-on introduction to bioinformatics for next generation sequencing and to equip participants with the essential informatics skills and knowledge required to begin analysing next generation sequencing data and carry out some of the most common types of analysis.
+Participants will be able to make informed decisions about appropriate techniques to apply in a variety of research contexts. Training will cover applications for target enrichment, bacterial sequencing, cancer genomic analysis, human variation analysis, and RNA-Seq.
 
-# Target Audience
+**What will this course cover?**
 
-The course is aimed at researchers or clinicians/ healthcare professionals actively engaged in or soon to commence work involving next generation sequencing data analysis.
+The programme will include theoretical and practical information on NGS systems currently available and those on the near horizon. Technologies will be chosen from short- and long-read sequencing platforms including:
 
-## Learning outcomes
+- PacBio
+- Illumina Miseq/HiSeq/Novaseq
+- Oxford Nanopore MinION
 
-**What will you be able to do?**
+All the basic techniques of post-sequencing analysis will also be covered in hands-on genomics data analysis sessions including QC, sequence alignment, and variant calling.
 
-After attending this course, participants will be able to:
+### Target Audience
 
-- Use the Linux command-line and advanced Linux commands for automating bioinformatics tasks
-- Evaluate the results of QC analysis of high throughput sequencing data
-- Understand the algorithmic concepts behind short read alignment and variant calling, and have practical experience of using relevant software
-- Analyse RNA-Seq data to measure abundance
-- Develop bioinformatics workflows
+Applications are open to clinical, industry, research professionals, and university students who are either engaged in next-generation sequencing or are aiming to implement it into their future workflows.
+
+This course is not meant to replace the manufacturers’ training normally supplied with new instruments, nor is it intended to be a training course for those solely interested in NGS data analysis (please refer to our website for dedicated bioinformatics courses).
+
+### Learning outcomes
+
+**What will you achieve**
+
+Upon completion of the course, participants should be able to:
+
+- prepare high quality sample libraries for use on next generation sequencing platforms
+- set up sequencing runs for the various platforms utilised during this course
+- critically assess a sequencing run and distinguish between good and poor-quality data
+- describe the advantages and disadvantages of different sequencing technologies in order to select technologies appropriate to specific needs
+- process NGS data and use computational tools for sequence alignment and variant-calling
 
 # Programme
 
-The hands-on programme will cover several aspects of next generation sequencing data analysis, including lectures, discussions and practical computational sessions covering the following:
+The programme will include lectures, seminars, practical sessions, and social events covering the following topics:
 
-- Introduction to NGS technologies 
-- Introduction to the Linux command line
-- Linux for bioinformatics
-- NGS data formats and tools
-- Sequence alignment+QC
-- SNP/indel theory and practical
-- Structural variation theory and practical
-- RNA-seq analysis
-- Sequencing data visualisation with the Integrated Genomics Viewer
-- Genome assembly
-- Bioinformatics workflow essentials
-- Participant projects and presentations (final day)
+**Library Prep**
 
-**Please note:** The practical sessions will be taught exclusively through Linux. Therefore, participants are required to have some familiarity with the Linux operating system. This will be essential for participants to fully benefit from the course. With this in mind, we will provide comprehensive pre-course material via our learning management system in the weeks immediately before the course. Additionally, there are numerous online introductory tutorials to the Linux operating system and command line, including:
-- [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)
-- [The Unix Shel](http://swcarpentry.github.io/shell-novice/)
+- Preparing high-quality libraries from samples
 
-The course should not be considered a complete education in the theoretical and mathematical foundations of the topics.
+**Sequencing**
 
-**Scientific Organising Committee**
+- Overview: Motivation and fundamental concepts
+- Detailed description of prominent sequencing technologies: current and emerging platforms
+- preparing chips for sequencing and performing sequencing runs on various platforms
 
-- [Qasim Ayub](https://www.monash.edu.my/science/staff/academic/qasim-ayub), Monash University, Malaysia
-- [Jacqueline Keane](https://www.sanger.ac.uk/people/directory/keane-jacqueline), Wellcome Sanger Institute, UK
-- [Thomas Keane](https://www.ebi.ac.uk/about/people/thomas-keane), European Bioinfromatics Institute, UK
+**Data analysis**
+
+- Data QC: How to determine if a sequencing run has performed well
+- Alignment to a reference sequence and variant-calling of NGS data
+
+The course will also include seminars by invited speakers, who will highlight their ground-breaking work in the applications of next-generation sequencing.
 
 **Course Instructors**      
-
-- [Arporn (Koi) Wangwiwatsin](https://www.researchgate.net/profile/Arporn-koi-Wangwiwatsin), Khon Kaen University, Thailand
-- [Jin Li](), Oujiang Laboratory, China 
-- [Jingtao Lilue](https://www.researchgate.net/profile/Jingtao-Lilue), Oujiang Laboratory, China 
-- [Adaikalavan Ramasamy](https://www.a-star.edu.sg/sics/About-Us/Our-Investigators/Adaikalavan-Ramasamy), Genome Institute of Singapore
-- [Aswini Leela Loganathan](https://www.monash.edu.my/science/staff/academic/aswini-leela), Monash University, Malaysia
-- [Vivek Iyer](https://www.sanger.ac.uk/person/iyer-vivek/), Wellcome Sanger Institute, UK
-- [Wee Wei Yee (Gavin)](https://www.monash.edu.my/science/staff/academic/wee-wei-yee-gavin), Monash University, Malaysia
-- [Gokce Oguz](https://www.researchgate.net/profile/Gokce-Oguz), Genome Institute of Singapore
-- [Hong Leong Cheah](https://research.monash.edu/en/persons/hong-leong-cheah), Monash University, Malaysia
-- [Onnapa Kongphan](), Khon Kaen University, Thailand
+- [Michael Quail](https://www.sanger.ac.uk/people/directory/quail-michael-andrew), Wellcome Sanger Institute, UK
+- [Jacqueline Keane](https://www.sanger.ac.uk/people/directory/keane-jacqueline), Wellcome Sanger Institute, UK
+- [Kim Judge](), Wellcome Sanger Institute, UK
 
 **Wellcome Connecting Science Team**  
 
 - [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#), Head of Training and Global Capacity
-- [Michelle Bishop](https://www.wellcomeconnectingscience.org/person/bishop-michelle/#), Associate Director
-- [Isabela Malta](https://www.linkedin.com/in/isabela-malta-754503162/), Assistant Global Training Manager
-- [Karon Chappell](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Event Organiser
+- [Nicola Stevens](https://www.wellcomeconnectingscience.org/person/stevens-nicola/), Events Organiser
 - [Martin Asltett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
 - [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
+- [Cassandra Soo](https://uk.linkedin.com/in/cassandra-claire-soo-b3783277/ms?trk=people-guest_people_search-card), Laboratory Courses Manager
+- [Aaron Dean](https://uk.linkedin.com/in/aaron-dean-5b5a21163), Laboratory Technical Officer
+- [Christopher Adamson](https://www.wellcomeconnectingscience.org/person/adamson-chris/), Laboratory Operations Officer
+
 
 ******
 
